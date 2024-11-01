@@ -1,0 +1,14 @@
+/Users/orderedchaos1998/Documents/projects/learning/ueh/dsa-presentation/dsaPresentation/bin/Debug/net8.0/dsaPresentation
+/Users/orderedchaos1998/Documents/projects/learning/ueh/dsa-presentation/dsaPresentation/bin/Debug/net8.0/dsaPresentation.deps.json
+/Users/orderedchaos1998/Documents/projects/learning/ueh/dsa-presentation/dsaPresentation/bin/Debug/net8.0/dsaPresentation.runtimeconfig.json
+/Users/orderedchaos1998/Documents/projects/learning/ueh/dsa-presentation/dsaPresentation/bin/Debug/net8.0/dsaPresentation.dll
+/Users/orderedchaos1998/Documents/projects/learning/ueh/dsa-presentation/dsaPresentation/bin/Debug/net8.0/dsaPresentation.pdb
+/Users/orderedchaos1998/Documents/projects/learning/ueh/dsa-presentation/dsaPresentation/obj/Debug/net8.0/dsaPresentation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/orderedchaos1998/Documents/projects/learning/ueh/dsa-presentation/dsaPresentation/obj/Debug/net8.0/dsaPresentation.AssemblyInfoInputs.cache
+/Users/orderedchaos1998/Documents/projects/learning/ueh/dsa-presentation/dsaPresentation/obj/Debug/net8.0/dsaPresentation.AssemblyInfo.cs
+/Users/orderedchaos1998/Documents/projects/learning/ueh/dsa-presentation/dsaPresentation/obj/Debug/net8.0/dsaPresentation.csproj.CoreCompileInputs.cache
+/Users/orderedchaos1998/Documents/projects/learning/ueh/dsa-presentation/dsaPresentation/obj/Debug/net8.0/dsaPresentation.dll
+/Users/orderedchaos1998/Documents/projects/learning/ueh/dsa-presentation/dsaPresentation/obj/Debug/net8.0/refint/dsaPresentation.dll
+/Users/orderedchaos1998/Documents/projects/learning/ueh/dsa-presentation/dsaPresentation/obj/Debug/net8.0/dsaPresentation.pdb
+/Users/orderedchaos1998/Documents/projects/learning/ueh/dsa-presentation/dsaPresentation/obj/Debug/net8.0/dsaPresentation.genruntimeconfig.cache
+/Users/orderedchaos1998/Documents/projects/learning/ueh/dsa-presentation/dsaPresentation/obj/Debug/net8.0/ref/dsaPresentation.dll
